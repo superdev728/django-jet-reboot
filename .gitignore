@@ -1,0 +1,10 @@
+*.pyc
+*.DS_Store
+*.egg*
+venv*/
+build/
+/dist/
+/.idea
+/docs/_build/
+/node_modules/
+/db
